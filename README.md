@@ -1,4 +1,7 @@
-# test coverage for  [express-error-handler (v1.1.0)](https://github.com/dilvie/express-error-handler#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-express-error-handler.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-express-error-handler) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-express-error-handler.svg)](https://travis-ci.org/npmtest/node-npmtest-express-error-handler)
+# npmtest-express-error-handler
+
+#### test coverage for  [express-error-handler (v1.1.0)](https://github.com/dilvie/express-error-handler#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-express-error-handler.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-express-error-handler) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-express-error-handler.svg)](https://travis-ci.org/npmtest/node-npmtest-express-error-handler)
+
 #### A graceful error handler for Express applications.
 
 [![NPM](https://nodei.co/npm/express-error-handler.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/express-error-handler)
